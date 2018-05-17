@@ -1,0 +1,171 @@
+# depslib dependency file v1.0
+1525997548 source:d:\santos\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"cliente.h"
+	"publicacion.h"
+	"utn.h"
+
+1525990710 d:\santos\parcial\utn.h
+
+1525990710 source:d:\santos\parcial\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1525998236 source:d:\santos\parcial\publicacion.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"publicacion.h"
+	"utn.h"
+
+1525997548 d:\santos\parcial\publicacion.h
+
+1525995741 source:d:\santos\parcial\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"cliente.h"
+	"utn.h"
+
+1525993852 d:\santos\parcial\cliente.h
+
+1526347664 source:c:\users\liqui\desktop\parcial\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"cliente.h"
+	"utn.h"
+
+1526347521 c:\users\liqui\desktop\parcial\cliente.h
+
+1525990712 c:\users\liqui\desktop\parcial\utn.h
+
+1526347442 source:c:\users\liqui\desktop\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"cliente.h"
+	"publicacion.h"
+	"utn.h"
+
+1526347611 c:\users\liqui\desktop\parcial\publicacion.h
+
+1526345182 source:c:\users\liqui\desktop\parcial\publicacion.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"cliente.h"
+	"publicacion.h"
+	"utn.h"
+
+1525990712 source:c:\users\liqui\desktop\parcial\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1526405406 source:c:\users\luchi\desktop\parcial\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"cliente.h"
+	"utn.h"
+
+1526403644 c:\users\luchi\desktop\parcial\cliente.h
+
+1525990712 c:\users\luchi\desktop\parcial\utn.h
+
+1526405406 source:c:\users\luchi\desktop\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"cliente.h"
+	"publicacion.h"
+	"utn.h"
+
+1526347612 c:\users\luchi\desktop\parcial\publicacion.h
+
+1526404722 source:c:\users\luchi\desktop\parcial\publicacion.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"cliente.h"
+	"publicacion.h"
+	"utn.h"
+
+1525990712 source:c:\users\luchi\desktop\parcial\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1526584983 source:c:\users\rocio\downloads\parcial german\parcial\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"cliente.h"
+	"publicacion.h"
+	"utn.h"
+
+1526403646 c:\users\rocio\downloads\parcial german\parcial\cliente.h
+
+1525990712 c:\users\rocio\downloads\parcial german\parcial\utn.h
+
+1526589912 source:c:\users\rocio\downloads\parcial german\parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"cliente.h"
+	"publicacion.h"
+	"utn.h"
+
+1526590039 c:\users\rocio\downloads\parcial german\parcial\publicacion.h
+
+1526590775 source:c:\users\rocio\downloads\parcial german\parcial\publicacion.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"cliente.h"
+	"publicacion.h"
+	"utn.h"
+
+1526584964 source:c:\users\rocio\downloads\parcial german\parcial\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1526590425 source:c:\users\rocio\downloads\parcial german\parcial\informar.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"cliente.h"
+	"publicacion.h"
+	"informar.h"
+	"utn.h"
+
+1526589046 c:\users\rocio\downloads\parcial german\parcial\informar.h
+	"publicacion.h"
+	"cliente.h"
+

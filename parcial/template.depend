@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1524699666 source:d:\template\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"fantasma.h"
+	"utn.h"
+
+1524691839 source:d:\template\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1524691839 d:\template\utn.h
+
+1524700062 source:d:\template\fantasma.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"fantasma.h"
+	"utn.h"
+
+1524700062 d:\template\fantasma.h
+
+1524702208 source:d:\santos\templatedavila\template\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"fantasma.h"
+	"utn.h"
+
+1524703436 d:\santos\templatedavila\template\fantasma.h
+
+1524691840 d:\santos\templatedavila\template\utn.h
+
+1524703436 source:d:\santos\templatedavila\template\fantasma.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"fantasma.h"
+	"utn.h"
+
+1524691840 source:d:\santos\templatedavila\template\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
